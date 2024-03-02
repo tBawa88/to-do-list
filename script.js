@@ -110,5 +110,3 @@ addButton.addEventListener('click', ()=>{
     // container.classList.toggle('toggle-test')
 })
 
-
-// Crossing out list items
