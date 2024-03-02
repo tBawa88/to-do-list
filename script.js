@@ -106,7 +106,6 @@ addButton.addEventListener('click', ()=>{
         alert("Enter a task")
     }
     
-    
-    // container.classList.toggle('toggle-test')
+
 })
 
